@@ -1,0 +1,10 @@
+com/mycompany/soapforexam/package-info.class
+com/mycompany/soapforexam/Movies.class
+com/mycompany/soapforexam/ExamInterface.class
+com/mycompany/soapforexam/GetMovieData.class
+Client.class
+com/mycompany/soapforexam/ObjectFactory.class
+com/mycompany/soapforexam/GetMovieDataResponse.class
+com/mycompany/soapforexam/ExamImpService.class
+com/mycompany/soapforexam/GetMoviesResponse.class
+com/mycompany/soapforexam/GetMovies.class
